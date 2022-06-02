@@ -5,8 +5,8 @@ export default class Convert extends Command {
   static description = 'Convert one currency to another'
 
   static examples = [
-    `$ oex convert ETH USD 1
-hello friend from oclif! (./src/commands/hello/index.ts)
+    `$ oex convert ETH ETH 1
+The converting rate for 1 ETH to ETH is 1
 `,
   ]
 
