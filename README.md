@@ -17,7 +17,7 @@ $ npm install -g cmcapp
 $ cmc COMMAND
 running command...
 $ cmc (--version)
-cmcapp/1.0.0 darwin-x64 node-v16.13.2
+cmcapp/1.0.1 darwin-x64 node-v16.13.2
 $ cmc --help [COMMAND]
 USAGE
   $ cmc COMMAND
@@ -59,7 +59,7 @@ EXAMPLES
   The converting rate for 1 ETH to ETH is 1
 ```
 
-_See code: [dist/commands/Convert/index.ts](https://github.com/rogvlad91/cmcCLI/blob/v1.0.0/dist/commands/Convert/index.ts)_
+_See code: [dist/commands/Convert/index.ts](https://github.com/rogvlad91/cmcCLI/blob/v1.0.1/dist/commands/Convert/index.ts)_
 
 ## `cmc help [COMMAND]`
 
