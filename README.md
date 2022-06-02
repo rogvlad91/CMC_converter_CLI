@@ -4,7 +4,7 @@ oclif-cmc-app
 oclif cmc currency converter CLI
 
 [![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io)
-[![Version](https://img.shields.io/npm/v/oclif-hello-world.svg)](https://npmjs.org/package/oclif-hello-world)
+[![Version](https://img.shields.io/npm/v/oclif-hello-world.svg)](https://npmjs.org/package/cmcapp)
 
 <!-- toc -->
 * [Usage](#usage)
